@@ -1,0 +1,14 @@
+table, th, td {
+    padding: 15px;
+    border: 1px solid black;
+}
+
+th, td {
+    text-align: left;
+    font-size: large;
+}
+
+th {
+    cursor: pointer;
+    background-color: lightcyan;
+}
