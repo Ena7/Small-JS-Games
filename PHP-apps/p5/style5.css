@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(212, 255, 212);
+}
+
+#log {
+    text-align: right;
+}
+
+#main {
+    display: flex;
+}
+
+.main {
+    padding: 5px;
+    margin: 5px;
+}
+
+#profile {
+    flex: 3;
+    background-color: rgb(160, 255, 160);
+}
+
+#users {
+    flex: 1;
+    background-color: rgb(160, 255, 160);
+}
+
+.galery {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.img-container {
+    padding: 10px;
+}
+
+.img-size {
+    max-width: 200px;
+}

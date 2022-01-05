@@ -1,0 +1,21 @@
+table {
+    display: flex;
+    justify-content: center;
+    margin-top: 35vh;
+    background-color: white;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+#msg {
+    text-align: center;    
+}
+
+body {
+    margin: 0;
+    background-color: rgb(255, 255, 157);
+}
+
+td {
+    text-align: right;
+}

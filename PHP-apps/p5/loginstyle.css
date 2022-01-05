@@ -1,0 +1,19 @@
+table {
+    display: flex;
+    justify-content: center;
+    margin-top: 35vh;
+    background-color: rgb(147, 255, 147);
+}
+
+#msg {
+    text-align: center;    
+}
+
+body {
+    margin: 0;
+    background-color: rgb(212, 255, 212);
+}
+
+td {
+    text-align: right;
+}

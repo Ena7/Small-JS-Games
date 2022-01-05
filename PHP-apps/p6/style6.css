@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(255, 255, 157);
+    margin: 0;
+}
+
+#main {
+    background-color: white;
+    width: 60%;
+    margin: auto;
+    padding-top: 1%;
+    text-align: center;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+#title {
+    font-family: Georgia;
+    font-size: 50px;
+    font-style: italic;
+}
+
+#carbonaraimg {
+    max-width: 50%;
+}
+
+.info {
+    text-align: justify;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+#writecomm {
+    text-align: justify;
+    width: 90%;
+    height: 50px;
+    resize: none;
+}
+
+#name {
+    width: 200px;
+}
+
+.comment {
+    text-align: justify;
+    border: 2px solid burlywood;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.idc {
+    width: 23px;
+}
